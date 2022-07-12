@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e2443;
+      }
+
+      .cls-2 {
+        font-size: 33.333px;
+        fill: #fff;
+        font-family: Fairweather;
+        font-weight: 800;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <ellipse id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="40.5" cy="40" rx="33.5" ry="38"/>
+  <text id="Boa_Mlk" data-name="Boa Mlk" class="cls-2" x="23.646" y="30.247">Boa<tspan x="23.646" dy="40">Mlk</tspan></text>
+</svg>
